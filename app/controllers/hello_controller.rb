@@ -6,7 +6,7 @@ class HelloController < ApplicationController
     render text: 'ともだちんこーーー'
   end
   def view
-    @msg = 'ちんちんaa'
+    @msg = 'ちんちんaabb'
   end
 
 end
